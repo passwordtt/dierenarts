@@ -3,8 +3,7 @@
     include('php/function.php');
 ?>
 
-
-<!Doctype html>a
+<!Doctype html>
 <html lang="en">
   <head>
         <meta charset="utf-8">
