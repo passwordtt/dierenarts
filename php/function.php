@@ -1,9 +1,4 @@
 <?php
-    function navbar{
-        
-    }
-
-
 
 
 ?>
